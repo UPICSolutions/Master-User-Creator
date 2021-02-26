@@ -4,10 +4,10 @@
 - [Blog Post](http://thelazyadministrator.com/2018/07/10/tool-create-and-configure-active-directory-and-office-365-users-at-once/)
 
 ## Table of Contents
-- [UI](https://github.com/bwya77/Master-User-Creator/blob/master/README.md#UI)
-- [Description](https://github.com/bwya77/Master-User-Creator/blob/master/README.md#description)
-- [Features](https://github.com/bwya77/Master-User-Creator/blob/master/README.md#features)
-- [Prerequisites](https://github.com/bwya77/Master-User-Creator/blob/master/README.md#prerequisites)
+- [UI](https://github.com/UPICSolutions/Master-User-Creator/blob/master/README.md#UI)
+- [Description](https://github.com/UPICSolutions/Master-User-Creator/blob/master/README.md#description)
+- [Features](https://github.com/UPICSolutions/Master-User-Creator/blob/master/README.md#features)
+- [Prerequisites](https://github.com/UPICSolutions/Master-User-Creator/blob/master/README.md#prerequisites)
 
 ## .UI
 <img src="https://www.thelazyadministrator.com/wp-content/uploads/2019/03/ezgif.com-crop-1.gif"/>
